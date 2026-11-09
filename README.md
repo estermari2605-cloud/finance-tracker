@@ -2,7 +2,7 @@
 
 Aplicação web de controle financeiro pessoal: registre receitas e despesas, acompanhe o saldo automaticamente e visualize para onde seu dinheiro está indo.
 
-![Tela do Finance Tracker](docs/screenshot.png)
+![Tela do Finance Tracker](screenshot.png)
 
 ## Objetivo
 
@@ -36,7 +36,7 @@ Projeto desenvolvido durante o primeiro semestre de Engenharia de Software para 
 Não é necessário instalar nada.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/finance-tracker.git
+git clone https://github.com/estermari2605-cloud/finance-tracker.git
 cd finance-tracker
 ```
 
@@ -80,5 +80,5 @@ finance-tracker/
 
 ## Autora
 
-**SEU NOME** — estudante de Engenharia de Software  
-[GitHub](https://github.com/SEU-USUARIO) · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
+**Ester Mari** — estudante de Engenharia de Software  
+[GitHub](https://github.com/estermari2605-cloud) · [LinkedIn](https://www.linkedin.com/in/ester-mari)
